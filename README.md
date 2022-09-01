@@ -4,4 +4,4 @@ NPM     : 2106700870
 
 Kelas   : C
 
-Hobi : ngoding
+Hobi : Tidur
